@@ -34,7 +34,7 @@ Potremo andare a modificare l'immagine dell'utente tramite delle immagini predef
 Sia il nome che il cognome potranno essere modificati tramite il tasto settings nell'Appbar
 
 ### Generale
-In generale avremo un bottone per il sign-out e un bottone per il setting del nome e cognome come dicevo prima.
+In generale avremo un bottone per il sign-out e un bottone per il setting del nome e cognome come dicevo prima (UPDATE USER).
 
 Quando andremo a premere una card questa aprirà una schermata per modificare tutti i valori riguardanti il libro di quell'autore, potendo anche aggiungere 
 delle riflessioni.(la chiameremo schermata UPDATE LIBRO)
